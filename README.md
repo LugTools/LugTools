@@ -17,7 +17,7 @@ Je développe des outils personnels dans Minecraft et en dehors, souvent pour am
 - `mc-dev-utils` : outils dev Minecraft (Create, Forge, etc.)
 - `privacy-scripts` : scripts pour vie privée numérique
 
-📫 Contact : lucas.garnier@mail.com 
+📫 Contact : lucas.garnier@mail.com
 🌐 Site en construction : [https://lug.tools](https://lug.tools)
 
 ---
